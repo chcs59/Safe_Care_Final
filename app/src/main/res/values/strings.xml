@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Safe_Care</string>
+    <string name="background">Background</string>
+    <string name="about_app">About App</string>
+    <string name="desc">
+        Safe Care adalah sebuah aplikasi yang bisa mengenali dan mendeteksi apakah
+        seseorang sudah taat dengan protokol kesehatan yang saat ini diterapkan.
+        Project ini adalah Final Project Capstone Tim C22-095 Android.
+    </string>
+    <string name="point_camera">Arahkan Kamera pada Objek</string>
 </resources>
