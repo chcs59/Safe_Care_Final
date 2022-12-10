@@ -39,6 +39,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         }
     }
 
+
+    @Deprecated("Deprecated in Java")
     override fun onBackPressed() {
         if (backPressedTime + 3000 > System.currentTimeMillis()) {
             super.onBackPressed()
